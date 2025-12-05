@@ -8,5 +8,5 @@ textblob
 textstat
 joblib
 xgboost
-tensorflow-macos
-tensorflow-metal
+tensorflow
+torch
