@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+transformers
+scikit-learn
+spacy
+textblob
+textstat
+joblib
+xgboost
+tensorflow-macos
+tensorflow-metal
